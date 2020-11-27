@@ -1,0 +1,8 @@
+.git*
+node_modules
+docker-*
+Dockerfile*
+jsconfig.json
+README.md
+schema_*
+.dockerignore

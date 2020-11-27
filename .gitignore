@@ -1,0 +1,9 @@
+node_modules
+config.js
+.vscode
+coverage
+.nyc_output
+TODO
+.DS_Store
+postgres-data
+.idea

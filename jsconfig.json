@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "#server/*": [ "./server/*" ],
+            "#db/*": [ "./db/*" ],
+            "#fixtures/*": [ "./test/fixtures/*" ]
+        }
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
